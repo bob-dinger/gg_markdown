@@ -2,8 +2,10 @@
 
 Why do the left and right differ politically?
 
-Jon Haidt came up with this theory to help explain these differences.
+From Jon Haidt's [The Righteous Mind](https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777)
 
-He c
+![asd](https://glowinggardensstorage.blob.core.windows.net/images/title_images/values.PNG)
+
+
 
 
