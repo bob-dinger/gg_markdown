@@ -1,0 +1,4 @@
+# Insula
+
+Seat of disgust.
+

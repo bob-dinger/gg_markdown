@@ -12,6 +12,9 @@ insula
 hippocampus
 pituitary gland
 
+cerebral cortex
+striatum
+basal ganglia
 
 
 
