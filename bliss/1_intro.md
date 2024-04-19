@@ -8,7 +8,7 @@ Horrified by the Holocaust, he created it to give the world a universal language
 
 Here's a great [RadioLab episode](https://www.youtube.com/watch?v=i4n8gLtjKeU) about it.
 
-![asa](https://raw.githubusercontent.com/bob-dinger/gg_markdown/main/bliss/img/bliss1.png)
+![asa](https://raw.githubusercontent.com/bob-dinger/gg_markdown/main/bliss/img/bliss_person.png)
 
 
 
