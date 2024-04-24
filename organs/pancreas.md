@@ -1,0 +1,9 @@
+# Pancreas
+
+![scd](https://glowinggardensstorage.blob.core.windows.net/images/organs/pancreas.png)
+
+The pancreas creates insulin to release into the bloodstream.
+
+Packed in beside the liver are two other organs, the pancreas and spleen, which are often paired up because they live side by side and are similarly sized, but actually are quite unalike. The pancreas is a gland and the spleen is not. The pancreas is essential to life; the spleen is expendable. The pancreas is a jellylike organ, about six inches long, shaped roughly like a banana (and about the same size), tucked behind the stomach in the upper abdomen. As well as insulin, it produces the hormone glucagon, which is also involved in regulating blood sugar, and the digestive enzymes trypsin, lipase, and amylase, which help digest cholesterol and fats. Altogether every day it produces over a quart of pancreatic juice, a pretty prodigious amount for an organ of its size. The pancreas of an animal when cooked for consumption is known as a sweetbread (the word is first recorded in English in 1565), but no one has ever worked out why, because there is nothing sweet or bread-like about it. “Pancreas” isn’t recorded in English until late the following decade, so “sweetbread” is actually the older term. The spleen is roughly the size of your fist, weighs half a pound, and sits fairly high up on the left side of your chest. It does important work monitoring the condition of circulating blood cells and dispatching white blood cells to fight infections. It also acts as a reservoir for blood so that more can be supplied to muscles when suddenly needed, and it aids the immune system. A person who is splenetic is angry or wrathful; we still vent our spleen when angry.
+
+Bryson, Bill. The Body: A Guide for Occupants (pp. 185-186). Knopf Doubleday Publishing Group. Kindle Edition. 

@@ -14,6 +14,8 @@ In his later book Antifragile, Taleb explains how systems and people can survive
 
 
 ========
+From the book (referring to another book)
+
 In his later book Antifragile, Taleb explains how systems and people can survive the inevitable black swans of life and, like the immune system, grow stronger in response. 
 
  Many of the important systems in our economic and political life are like our immune systems: they require stressors and challenges in order to learn, adapt, and grow. Systems that are antifragile become rigid, weak, and inefficient when nothing challenges them or pushes them to respond vigorously. He notes that muscles, bones, and children are antifragile: 
