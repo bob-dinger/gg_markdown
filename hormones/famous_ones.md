@@ -1,17 +1,17 @@
-leptin
-ghrelin
-glp1
+# List of Famous Hormones
 
-androsterone
-oxytocin
+- leptin
+- ghrelin
+- glp1
+- androsterone
+- oxytocin
+- insulin
+- adrenaline
+- cortisol
+- progesterone
+- testosterone
+- estrogen
+- glucagon
 
-insulin
 
-adrenaline
-cortisol
-progesterone
 
-testosterone
-estrogen
-
-glucagon
