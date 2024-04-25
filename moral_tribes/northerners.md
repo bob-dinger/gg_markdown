@@ -1,0 +1,6 @@
+# Northerners
+
+<blockquote>
+To the north of the forest is yet another tribe. Here there is no common pasture. Each family has its own plot of land, surrounded by a fence. These plots vary greatly in size and fertility. This is partly because some Northern herders are wiser and more industrious than others. Many such herders have expanded their lands, using their surpluses to buy land from their less prosperous neighbors. Some Northern herders are less prosperous than others simply because they are unlucky, having lost their flock, or their children, to disease, despite their best efforts. Still other herders are exceptionally lucky, possessing large, fertile plots of land, not because they are especially wise or industrious but because they inherited them. Here in the North, the council of elders doesn't do much. They simply ensure that the herders keep their promises and respect one another's property. The vast differences in wealth among Northern families have been the source of much strife. Each year, some Northerners die in winter for want of food and warmth. Despite these challenges, the Northern tribe has survived. Most of its families have prospered, some much more than others. 
+
+</blockquote>
