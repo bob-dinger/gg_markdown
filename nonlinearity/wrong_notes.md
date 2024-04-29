@@ -23,6 +23,8 @@ The Mississippi between Cairo and New Orleans was twelve hundred and fifteen mil
 Ellenberg, Jordan. How Not to Be Wrong: The Power of Mathematical Thinking (p. 55). Penguin Publishing Group. Kindle Edition. 
 
 
+the proportion of Americans who are overweight, which for present purposes is defined as having a body-mass index of 25 or higher.* There’s no question that the prevalence of overweight has increased in recent decades. In the early 1970s, just under half of Americans had a BMI that high. By the early 1990s that figure had risen to almost 60%, and by 2008 almost three-quarters of the U.S. population was overweight.
 
+Ellenberg, Jordan. How Not to Be Wrong: The Power of Mathematical Thinking (p. 59). Penguin Publishing Group. Kindle Edition. 
 
 
